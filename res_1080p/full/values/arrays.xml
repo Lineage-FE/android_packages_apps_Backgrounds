@@ -13,15 +13,45 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
-        <item>abstract_ink</item>
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>nature_ice</item>
-        <item>nature_nebula</item>
-        <item>nature_night</item>
-        <item>nature_sea</item>
-        <item>space_riseup</item>
-        <item>urban_dayroad</item>
-        <item>urban_nightroad</item>
+        <item>curated_culture_01</item>
+        <item>curated_culture_02</item>
+        <item>curated_culture_03</item>
+        <item>curated_culture_04</item>
+        <item>curated_culture_05</item>
+        <item>curated_culture_06</item>
+        <item>curated_culture_07</item>
+        <item>curated_culture_08</item>
+        <item>curated_culture_09</item>
+        <item>curated_culture_10</item>
+        <item>curated_culture_11</item>
+        <item>curated_culture_12</item>
+        <item>for_fun_01</item>
+        <item>for_fun_02</item>
+        <item>for_fun_03</item>
+        <item>for_fun_04</item>
+        <item>for_fun_05</item>
+        <item>for_fun_06</item>
+        <item>for_fun_07</item>
+        <item>for_fun_08</item>
+        <item>for_fun_09</item>
+        <item>for_fun_10</item>
+        <item>for_fun_11</item>
+        <item>for_fun_12</item>
+        <item>for_fun_13</item>
+        <item>for_fun_14</item>
+        <item>for_fun_15</item>
+        <item>for_fun_16</item>
+        <item>for_fun_17</item>
+        <item>for_fun_18</item>
+        <item>for_fun_19</item>
+        <item>for_fun_20</item>
+        <item>for_fun_21</item>
+        <item>for_fun_22</item>
+        <item>for_fun_23</item>
+        <item>for_fun_24</item>
+        <item>for_fun_25</item>
+        <item>for_fun_26</item>
+        <item>for_fun_27</item>
+        <item>for_fun_28</item>
     </array>
 </resources>
